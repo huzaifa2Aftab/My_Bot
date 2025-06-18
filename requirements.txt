@@ -1,1 +1,10 @@
-
+random
+json
+pickle
+numpy 
+tensorflow
+nltk
+flask
+keras
+sklearn
+speech_recognition
